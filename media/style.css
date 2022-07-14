@@ -1,0 +1,234 @@
+* {
+    font-family: 'Gulzar', serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+.flexible-section {
+    margin-bottom: 150px;
+    text-align: center;
+
+}
+
+.top-banner {
+    height: 800px;
+    text-align: center;
+    background-color: rgb(0, 0, 0, 0.5);
+    margin-bottom: 150px;
+}
+
+.top-banner h1 {
+    color: white;
+    font-size: 50px;
+    padding-top: 200px;
+    word-spacing: 20px;
+    font-weight: 700;
+}
+
+.top-banner p {
+    color: white;
+    font-size: 20px;
+    padding: 0px 350px;
+    text-align: center;
+
+
+}
+
+#batton {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, tomato);
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+
+
+.fast-section {
+    background: url(images/donation3.jpg) no-repeat center;
+    background-size: cover;
+
+}
+
+.sonate-today h1 {
+    font-size: 50px;
+    font-weight: 700;
+    padding-bottom: 0;
+}
+
+.sonate-today p {
+    font-size: 20px;
+    color: gray;
+}
+
+.donate-amount {
+    display: flex;
+    margin: 20px;
+}
+
+.donate-amount h1 {
+    font-size: 50px;
+    color: grey;
+    margin-left: 140px;
+
+}
+
+#donate-color {
+    color: tomato;
+    border: 3px solid tomato;
+    padding: 5px 20px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(246, 235, 234);
+
+}
+
+.other-amount {
+    margin-top: 100px;
+    border-bottom: 2px solid rgb(207, 206, 206);
+    text-align: center;
+
+}
+
+.other-amount h2 {
+    color: rgb(184, 184, 184);
+    font-weight: 200;
+}
+
+.battin-one {
+    margin-top: 30px;
+}
+
+.our-donate-plan {}
+
+.our-donate-plan h1 {
+    font-size: 50px;
+}
+
+.our-donate-plan p {
+    font-size: 20px;
+    padding: 0px 350px;
+}
+
+.food-family {
+    display: flex;
+    margin: 40px 100px 40px 100px;
+    text-align: left;
+
+}
+
+
+.food-family p {
+    padding-right: 20px;
+
+}
+
+.food-family-s1 {
+    background-color: rgb(223, 239, 221, 0.6);
+    padding: 20px;
+    margin: 20px;
+}
+
+.food-family-s2 {
+    background-color: rgba(236, 231, 236, 0.6);
+    padding: 20px;
+    margin: 20px;
+}
+
+.food-family-s3 {
+    background-color: rgb(255, 235, 205, 0.6);
+    padding: 20px;
+    margin: 20px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+
+}
+
+footer h1 {
+    color: rgb(231, 99, 99);
+    font-weight: 800;
+    padding-top: 35px;
+}
+
+footer p {
+    color: rgb(204, 199, 199);
+    padding-bottom: 50px;
+}
+
+.my-updates h1 {
+    font-size: 50px;
+}
+
+.my-updates p {
+    font-size: 20px;
+    margin-bottom: 30px;
+    color: rgb(134, 132, 132);
+}
+
+.subscribe {
+    background-color: rgb(241, 240, 213);
+    width: 50%;
+    padding: 80px;
+    text-align: center;
+    margin-left: 280px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.subscribe input {
+    width: 300px;
+    height: 50px;
+    background-color: rgb(211, 206, 206);
+    border: none;
+    outline: none;
+    padding-left: 10px;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.subscribe button {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(253, 109, 84);
+    border: none;
+    outline: none;
+    padding-left: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.our-corporate-partner h1 {
+    font-size: 50px;
+    border-bottom: 1px solid rgb(241, 189, 180);
+}
+
+.our-corporate-partner p {
+    font-size: 20px;
+    padding: 30px;
+}
+
+.companies {
+    text-align: center;
+    display: flex;
+    margin-left: 100px;
+
+
+}
+
+#com {
+    padding: 30px;
+    margin: 20px;
+    box-shadow: 10px 10px 30px grey;
+
+}
+
+.view-com {
+    font-size: 20px;
+    margin-top: 30px;
+
+}
